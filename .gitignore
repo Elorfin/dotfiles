@@ -1,0 +1,8 @@
+.buildpath
+.idea
+.idea/dictionaries
+.project
+.settings
+bower_components
+node_modules
+vendor
