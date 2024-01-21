@@ -2,6 +2,6 @@
   name = Elorfin
   email = penin.axel@gmail.com
 [push]
-	default = matching
+  default = matching
 [core]
-	excludesfile = C:/Users/Elorfin/.gitignore
+  excludesfile = C:/Users/Elorfin/.gitignore
