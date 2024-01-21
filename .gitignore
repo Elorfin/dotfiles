@@ -1,8 +1,7 @@
 .buildpath
 .idea
-.idea/dictionaries
 .project
 .settings
-bower_components
+.sass-cache
 node_modules
 vendor
